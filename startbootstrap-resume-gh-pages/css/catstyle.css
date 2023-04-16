@@ -1,0 +1,60 @@
+body {
+    background-image: url("../assets/img/cat-bg.png");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.common{
+    text-align: center;
+}
+
+
+
+.footer{
+    height: 15px;
+    background-color: lightpink;
+    color: black;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding: 10px;
+
+}
+
+.section {
+    background-color: white;
+    border: 1px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: rgb(186, 23, 113);
+}
+
+.section {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-radius: 20px;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+}
+
+#section1 p{
+    text-align: center;
+}
+
